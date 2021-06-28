@@ -1,0 +1,11 @@
+name: dataiku
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - xgboost
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+prefix: /Users/pierre/miniconda3/envs/dataiku
