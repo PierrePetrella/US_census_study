@@ -10,10 +10,7 @@ To do so thus study will
 - Construct a data analysis/modeling pipeline.
 - Compare the different proposed models and offer a summary of the findings.
 
-for more information: https://docs.google.com/document/d/1rglhQ_reuHUe6bIkunuFGwebUk7ryJMAzQTiXKZKBJo/edit
-
 The code and presentation for this project is located in the /code folder.
-
 
 ## Run the code:
 
